@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  },
+  "name": "employee-profile",
+  "description": "employee profile ",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bekkahhuss/employee-profile.git"
+  },
+  "author": "Bekkahhuss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bekkahhuss/employee-profile/issues"
+  },
+  "homepage": "https://github.com/bekkahhuss/employee-profile#readme"
+}

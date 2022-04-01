@@ -25,4 +25,4 @@
 
 
   ## Video 
-  - [Walkthrough Video](./Assets/)
+  - [Walkthrough Video](./assets/Team%20Profile%20Generator%20Video.mp4)

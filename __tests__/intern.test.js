@@ -7,5 +7,5 @@ test('create an intern profile', () => {
     expect(intern.title).toEqual(expect.any(String));
     expect(intern.id).toEqual(expect.any(String));
     expect(intern.email).toEqual(expect.any(String));
-    expect(intern.officeNum).toEqual(expect.any(String));
+    expect(intern.school).toEqual(expect.any(String));
 })

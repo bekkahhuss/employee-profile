@@ -7,5 +7,5 @@ test('create an engineer profile', () => {
     expect(engineer.title).toEqual(expect.any(String));
     expect(engineer.id).toEqual(expect.any(String));
     expect(engineer.email).toEqual(expect.any(String));
-    expect(engineer.officeNum).toEqual(expect.any(String));
+    expect(engineer.github).toEqual(expect.any(String));
 })
